@@ -1,0 +1,20 @@
+
+.d{
+    width: 350px;
+}
+img{
+    height: 70px; 
+    width: 250px;
+}
+.nav-link{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.nav-link.active{
+    text-decoration: underline;
+}
+.nav-link:hover{
+    color: rgb(115, 6, 216);
+    text-decoration: underline;
+}
